@@ -1,0 +1,1 @@
+{"mid":"2","movie_name":"龙猫","movie_message":"星期天15时30分三号影厅","uid":"10","timestamp":"2016-08-10 17:23:25"}
